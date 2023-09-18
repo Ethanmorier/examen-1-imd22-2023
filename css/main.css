@@ -73,4 +73,14 @@ h2 {
   background-color: #d7a1fd;
   line-height: 36px;
 }
+h3 {
+  color: #fff;
+  text-align: center;
+  font-family: Noto Serif;
+  font-size: 18px;
+  font-weight: 300;
+  text-transform: uppercase;
+  background-color: #000;
+  line-height: 36px;
+}
 }
