@@ -63,4 +63,14 @@ h1 {
   margin-bottom: 25px;
   line-height: 36px;
 }
+h2 {
+  color: #fff;
+  text-align: center;
+  font-family: Noto Serif;
+  font-size: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
+  background-color: #d7a1fd;
+  line-height: 36px;
+}
 }
