@@ -34,4 +34,11 @@ a {
 
 img,
 video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+  height: 259px;
+  flex-shrink: 0;
+}
 }
