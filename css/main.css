@@ -128,4 +128,20 @@ p {
   border-radius: 20px;
   background: #fff;
 }
+.Whats-new {
+  width: 428px;
+  height: 1016px;
+  flex-shrink: 0;
+  background: #f4ede8;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: black;
+  width: 428px;
+  height: 62px;
+  flex-shrink: 0;
+  margin-bottom: 50px;
+}
 }
