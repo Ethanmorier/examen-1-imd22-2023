@@ -159,4 +159,24 @@ nav p {
   flex-shrink: 0;
   background: #98fb00;
 }
+.citation h3 {
+  text-align: center;
+  font-family: Nunito Sans;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 28px; /* 93.333% */
+  letter-spacing: -1.5px;
+  text-transform: uppercase;
+}
+.citation p {
+  color: #000;
+  text-align: center;
+  font-family: Noto Serif;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px; /* 100% */
+  text-transform: uppercase;
+}
 }
