@@ -185,4 +185,26 @@ nav p {
   flex-shrink: 0;
   background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
+.Opportunities p {
+  display: flex;
+  color: #000;
+  font-family: Nunito Sans;
+  font-size: 20px;
+  font-style: italic;
+  font-weight: 800;
+  line-height: 24px;
+  letter-spacing: -1px;
+  width: 428px;
+  height: 64px;
+  background: #98fb00;
+  align-items: center;
+  justify-content: space-around;
+  sottobosco: workshop call out;
+}
+.Opportunities h1 {
+  width: 428px;
+  flex-shrink: 0;
+  background-color: #d7a1fd;
+  text-align: center;
+}
 }
