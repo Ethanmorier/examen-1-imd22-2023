@@ -31,9 +31,14 @@ a {
   color: inherit;
 }
 
+img {
+  align-items: center;
   display: block;
+  height: 285px;
   flex-shrink: 0;
 }
+header {
+  display: flex;
   font-family: Nunito Sans;
   font-size: 50px;
   font-weight: 800;
