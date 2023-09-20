@@ -179,4 +179,10 @@ nav p {
   line-height: 15px; /* 100% */
   text-transform: uppercase;
 }
+.card-3 img {
+  width: 388px;
+  height: 258.997px;
+  flex-shrink: 0;
+  background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
 }
