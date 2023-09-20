@@ -18,6 +18,9 @@ html {
   margin: auto;
   background: #ffffff;
 }
+header {
+  background-color: #d7a1fd;
+}
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
