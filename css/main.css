@@ -110,6 +110,7 @@ p {
   line-height: 36px; /* 120% */
   text-transform: uppercase;
 }
+.card-1 {
   border-bottom: 1px solid #000;
   border-left: 1px solid #000;
 }
