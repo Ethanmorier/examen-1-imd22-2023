@@ -144,4 +144,19 @@ nav {
   flex-shrink: 0;
   margin-bottom: 50px;
 }
+nav p {
+  color: #fff;
+  font-family: Noto Serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 22px; /* 122.222% */
+  text-transform: uppercase;
+}
+.citation {
+  width: 428px;
+  height: 187px;
+  flex-shrink: 0;
+  background: #98fb00;
+}
 }
